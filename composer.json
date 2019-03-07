@@ -1,5 +1,5 @@
 {
-    "name": "symfony/security-acl",
+    "name": "carsten-ulrich-saitow-ag/security-acl",
     "type": "library",
     "description": "Symfony Security Component - ACL (Access Control List)",
     "keywords": [],
